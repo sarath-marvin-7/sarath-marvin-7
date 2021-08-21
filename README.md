@@ -1,6 +1,6 @@
 ### Hi there, Im Sarath 👋
 
-## I'm a FrontEnd WebDeveloper from Tamilnadu, India
+## I'm a FrontEnd Webdeveloper from Tamilnadu, India
 - 🔭 I'm currently learning Angular 
 - 🌱 2021 Goals: Learn Everything and Contribute to more open source projects
  
