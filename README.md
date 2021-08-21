@@ -7,7 +7,7 @@
 ### Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/>
-<img align="left" alt="CSS3" width="26px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"/>
+<img align="left" alt="CSS3" width="30px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"/>
 <img align="left" alt="JS" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
 <img align="left" alt="Sass" width="26px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo-700x524.png"/>
 <img align="left" alt="Git" width="26px" src="https://logos-download.com/wp-content/uploads/2021/01/Git_Logo_full-700x292.png"/>
