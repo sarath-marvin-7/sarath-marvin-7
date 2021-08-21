@@ -2,7 +2,7 @@
 
 ## I'm a FrontEnd Webdeveloper from Tamilnadu, India
 - 🔭 I'm currently learning Angular 
-- 🌱 2021 Goals: Learn Everything and Contribute to more open source projects
+- 🌱 2021 Goals: Learn everything and contribute to more open source projects
  
 ### Languages and Tools
 
