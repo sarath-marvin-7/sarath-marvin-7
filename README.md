@@ -6,7 +6,7 @@
  
 ### Languages and Tools
 
-<img align="left" alt="HTML5" width="1.5rem" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/>
+<img align="left" alt="HTML5" width="2rem" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/>
 <img align="left" alt="CSS3" width="1.5rem" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"/>
 <img align="left" alt="JS" width="1.5rem" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
 <img align="left" alt="Sass" width="1.5rem" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo-700x524.png"/>
