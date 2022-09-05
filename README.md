@@ -2,7 +2,7 @@
 
 ## I'm a FrontEnd Webdeveloper from Chennai, India
 - UI / UX 💻 
-- Currently working as Angular Devloper👨🏽‍💻
+- Currently working as Angular Developer👨🏽‍💻
 - Goals: Learn everything and contribute to more open source projects
  
 ### Languages and Tools
