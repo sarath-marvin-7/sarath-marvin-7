@@ -7,7 +7,7 @@
  
 ### Languages and Tools
 
-<img align="left" alt="HTML5" width="26px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/>
+<img align="left" alt="HTML5" width="26px" height="28px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/>
 <img align="left" alt="CSS3" width="30px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"/>
 <img align="left" alt="JS" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
 <img align="left" alt="Typescript" height="26px" width="30px" src="https://img.icons8.com/ios-filled/100/typescript.png"/>
