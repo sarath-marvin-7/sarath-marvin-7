@@ -16,4 +16,4 @@
 <img align="left" alt="Git" height="26px" width="38px" src="https://logos-download.com/wp-content/uploads/2021/01/Git_Logo_full-700x292.png"/>
 <img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
 <img align="left" alt="Mysql" height="26px" width="26px" src="https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype-700x413.png"/>
-<img align="left" alt="php" height="26px" width="30px" src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo-700x368.png"/>
+<img align="left" alt="php" height="30px" width="30px" src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo-700x368.png"/>
