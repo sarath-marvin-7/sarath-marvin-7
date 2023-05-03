@@ -7,8 +7,8 @@
  
 ### Languages and Tools
 
-<img align="left" alt="HTML5" width="30px" class="mt-2" height="30px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/>
-<img align="left" alt="CSS3" width="38px" height="38px" style="margin-top: -3px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"/>
+<img align="left" alt="HTML5" width="30px" class="mt-2" height="30px" src="https://seeklogo.com/images/H/html5-with-wordmark-black-white-logo-A6222B77EC-seeklogo.com.png"/>
+<img align="left" alt="CSS3" width="38px" height="38px" style="margin-top: -3px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png"/>
 <img align="left" alt="JS" width="34px" height="33px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
 <img align="left" alt="Typescript" height="34px" width="34px" src="https://img.icons8.com/ios-filled/100/typescript.png"/>
 <img align="left" alt="Angular" height="32px" width="30px" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png"/>
