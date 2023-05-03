@@ -6,7 +6,7 @@
 - Goals: Learn everything and contribute to more open source projects
  
 ### Languages and Tools
-<div style="display: flex; align-items: center;">
+
 <img align="left" alt="HTML5" width="30px" class="mt-2" height="30px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/>
 <img align="left" alt="CSS3" width="38px" height="38px" style="margin-top: -3px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"/>
 <img align="left" alt="JS" width="34px" height="33px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
@@ -17,4 +17,4 @@
 <img align="left" alt="Github" width="35px" style="margin-top: -4px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
 <img align="left" alt="Mysql" height="30px" width="52px" src="https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype-700x413.png"/>
 <img align="left" alt="php" height="32px" width="52px" src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo-700x368.png"/>
-</div>
+
